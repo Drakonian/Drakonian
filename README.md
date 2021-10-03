@@ -1,4 +1,4 @@
-<img src="https://github.com/Drakonian/blob/master/yield.jpg">
+<img src="https://github.com/Drakonian/Drakonian/blob/master/yield.jpg">
 
 <div align="center">
   <a href="https://github.com/Drakonian?tab=repositories&sort=stargazers">
