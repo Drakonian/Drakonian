@@ -1,4 +1,4 @@
-<a href="https://vld-nav.com/">
+<a href="https://vld-nav.com/" target="_blank">
 <img src="https://github.com/Drakonian/Drakonian/blob/master/preview.jpg">
 
 <div align="center">
