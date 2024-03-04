@@ -15,7 +15,7 @@
 ## I'm a Business Central and Navision Developer!
 
 - 📍 I’m From Ukraine (Zhytomir)
-- 💻 5+ Years Experience in Development
+- 💻 7+ Years Experience in Development
 - 📚 I lead my blog about Navision and Business Central
 
 ### 🤝 Connect with me:
