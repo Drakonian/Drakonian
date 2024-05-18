@@ -55,7 +55,6 @@
 </table>
 
 ---
-[![Volodymyr Dvernytskyi profile views](https://u8views.com/api/v1/github/profiles/16802407/views/day-week-month-total-count.svg)](https://u8views.com/github/Drakonian)
 
 [blog]: https://vld-nav.com/
 [linkedin]: https://www.linkedin.com/in/drakonian/
