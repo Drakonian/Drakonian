@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=drakonian" alt="Volodymyr Dvernytskyi Github stats" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=drakonian&show_icons=true&theme=radical&rank_icon=github" alt="Volodymyr Dvernytskyi Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="Volodymyr Dvernytskyi Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Drakonian&theme=algolia&layout=compact" />
