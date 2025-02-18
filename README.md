@@ -1,4 +1,4 @@
-<a href="https://vld-nav.com/" target="_blank" rel="noreferrer">
+<a href="https://vld-bc.com/" target="_blank" rel="noreferrer">
 <img src="https://github.com/Drakonian/Drakonian/blob/master/preview.jpg"></a>
 
 <div align="center">
