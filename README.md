@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://vld-bc.com/" target="_blank" rel="noreferrer">
-    <img src="assets/ProfileBanner.svg" alt="Volodymyr Dvernytskyi - Dynamics 365 Business Central Developer" width="60%">
+    <img src="assets/ProfileBanner.svg" alt="Volodymyr Dvernytskyi - Dynamics 365 Business Central Developer" width="100%">
   </a>
 </div>
 
