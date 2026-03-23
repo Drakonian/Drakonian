@@ -123,18 +123,18 @@
 
   <!-- Floating code fragments (AL-style) - decorative background text -->
   <g opacity="0.18" font-family="'Courier New', Courier, monospace" fill="#ffd700" filter="url(#codeGlow)">
-    <text x="30" y="38" font-size="11">procedure RunDataEditor(var Rec: Record)</text>
-    <text x="480" y="33" font-size="10">trigger OnAfterGetRecord()</text>
-    <text x="40" y="278" font-size="10">if RecRef.FindSet() then begin</text>
-    <text x="530" y="285" font-size="11">FieldRef.Value := NewValue;</text>
-    <text x="600" y="50" font-size="10">TableNo := RecRef.Number;</text>
+    <text x="30" y="38" font-size="11">BindSubscription(SingleInstanceStorage)</text>
+    <text x="480" y="33" font-size="10">NormalDate(NoOfPeriodRec."Period End")</text>
+    <text x="40" y="268" font-size="10">IsFound := DataOperations.FindRecord(xRecRef)</text>
+    <text x="530" y="285" font-size="11">FieldRef.Value(NewValue)</text>
+    <text x="600" y="50" font-size="10">TempBlob.CreateInStream(FileInStream, TextEncoding::UTF8)</text>
     <text x="20" y="150" font-size="10">[EventSubscriber(ObjectType::Codeunit)]</text>
-    <text x="570" y="150" font-size="10">exit(JsonResponse.AsObject());</text>
-    <text x="270" y="18" font-size="10">var Customer: Record Customer;</text>
-    <text x="20" y="118" font-size="10">Page.Run(Page::"Data Editor");</text>
-    <text x="450" y="278" font-size="10">JsonToken.ReadFrom(ResponseText);</text>
-    <text x="630" y="118" font-size="11">repeat until Next() = 0;</text>
-    <text x="170" y="293" font-size="10">Codeunit.Run(Codeunit::"Parallel Session");</text>
+    <text x="570" y="150" font-size="10">CommitBehavior(CommitBehavior::Ignore)</text>
+    <text x="270" y="18" font-size="10">HasError := not Codeunit.Run()</text>
+    <text x="20" y="118" font-size="10">Evaluate(DateFormula, DateFormulaAsText)</text>
+    <text x="450" y="255" font-size="10">JsonToken.ReadFrom(ResponseText)</text>
+    <text x="630" y="118" font-size="11">Email.Enqueue(EmailMessage, EmailAccount)</text>
+    <text x="170" y="293" font-size="10">TxtBuilder.Append(NewValue)</text>
   </g>
 
   <!-- BC Logo mark - stylized hexagonal shape -->
@@ -162,8 +162,8 @@
     </text>
 
     <!-- Thin accent line under name -->
-    <line x1="0" y1="124" x2="270" y2="124" stroke="#0057b7" stroke-width="2" opacity="0.6"/>
-    <line x1="270" y1="124" x2="440" y2="124" stroke="#ffd700" stroke-width="2" opacity="0.4"/>
+    <line x1="0" y1="124" x2="300" y2="124" stroke="#0057b7" stroke-width="2" opacity="0.6"/>
+    <line x1="300" y1="124" x2="460" y2="124" stroke="#ffd700" stroke-width="2" opacity="0.4"/>
 
     <!-- Subtitle / Role -->
     <text x="0" y="155" font-family="'Segoe UI', Tahoma, Geneva, sans-serif"
