@@ -29,6 +29,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CLI Agents Part 3: Business Central MCP Server](https://vld-bc.com/blog/cli-agents-part3-business-central-mcp-server)
+- [CLI Agents Part 2: Claude Code Best Practices](https://vld-bc.com/blog/cli-agents-part2-claude-code-best-practices)
+- [SharePoint Graph API for Business Central](https://vld-bc.com/blog/sharepoint-graph-api-for-business-central)
+- [How to support open-source](https://vld-bc.com/blog/how-to-support-open-source)
+- [CLI Agents: The New Standard of AI Coding](https://vld-bc.com/blog/cli-agents-new-standard-ai-coding)
 <!-- BLOG-POST-LIST:END -->
 
 ---
