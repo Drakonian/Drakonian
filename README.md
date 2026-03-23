@@ -1,62 +1,59 @@
-<a href="https://vld-bc.com/" target="_blank" rel="noreferrer">
-<img src="https://github.com/Drakonian/Drakonian/blob/master/preview.jpg"></a>
-
 <div align="center">
-  <a href="https://github.com/Drakonian?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Drakonian"/></a>
-  <a href="https://github.com/Drakonian?tab=repositories&sort=stargazers">
-    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Drakonian"/></a>
-  <a href="https://github.com/Drakonian">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Drakonian?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <img src="assets/ProfileBanner.svg" alt="Volodymyr Dvernytskyi - Dynamics 365 Business Central Developer" width="100%">
 </div>
 
-### Hi all, I'm Volodymyr Dvernytskyi 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0057B7&center=true&vCenter=true&width=600&lines=Building+tools+for+BC+community;Microsoft+MVP;Open+Source+Contributor;Blogging+about+AL+development" alt="Typing SVG" />
+  </a>
+</div>
 
-## I'm a Business Central and Navision Developer!
+<div align="center">
 
-- 📍 I’m From Ukraine (Zhytomir)
-- 📚 I lead my blog about Navision and Business Central
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drakonian/)
+[![Blog](https://img.shields.io/badge/Blog-vld--bc.com-0057b7?style=flat&logo=google-chrome&logoColor=white)](https://vld-bc.com/)
 
-### 🤝 Connect with me:
-
-[<img alt="Volodymyr Dvernytskyi | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="Volodymyr Dvernytskyi | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
----
-
-### 💻 Tech Stack:
-
-<img alt="javascript" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=fff" />&nbsp;
-<img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
-<img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
-
-### 🛠 Tools:
-
-<img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
-<img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
-<img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
-<img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
-<img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
-<img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+</div>
 
 ---
 
-### ⚙️ GitHub Analytics
+### About Me
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats-fast.vercel.app/api?username=Drakonian&show_icons=true&theme=radical&rank_icon=github" alt="Volodymyr Dvernytskyi Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="Volodymyr Dvernytskyi Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Drakonian&theme=algolia&layout=compact" />
-    </td>
-  </tr>
-</table>
+- 🇺🇦 From Ukraine, Zhytomyr
+- 💼 Microsoft MVP — Dynamics 365 Business Central & AL Developer
+- 📚 I blog about BC development at [vld-bc.com](https://vld-bc.com/)
+- 🛠️ Building open-source tools for the Business Central community
 
 ---
 
-[![Volodymyr Dvernytskyi profile views](https://u8views.com/api/v1/github/profiles/16802407/views/pixel.svg)](https://u8views.com/github/Drakonian)
+### Latest Blog Posts
 
-[blog]: https://vld-nav.com/
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=azure,dotnet,js,powershell,docker&theme=dark" alt="Tech Stack" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode&theme=dark" alt="Tools" />
+</div>
+
+<div align="center">
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="AL Language" src="https://img.shields.io/badge/AL_Language-0078D4?style=flat&logo=microsoft&logoColor=white" />
+  <img alt="Business Central" src="https://img.shields.io/badge/Business_Central-2D7D9A?style=flat&logo=microsoft-dynamics-365&logoColor=white" />
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Drakonian&show_icons=true&theme=transparent&hide_border=true&icon_color=0057b7&title_color=0057b7&text_color=94a3b8" alt="GitHub Stats" />
+</div>
+
+[blog]: https://vld-bc.com/
 [linkedin]: https://www.linkedin.com/in/drakonian/
-[facebook]: https://www.facebook.com/bannedforum/
