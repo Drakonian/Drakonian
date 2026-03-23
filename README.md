@@ -22,7 +22,7 @@
 ### About Me
 
 - 🇺🇦 From Ukraine, Zhytomyr
-- 💼 Microsoft MVP — Dynamics 365 Business Central & AL Developer
+- 💼 Dynamics 365 Business Central AL Developer
 - 📚 I blog about BC development at [vld-bc.com](https://vld-bc.com/)
 - 🛠️ Building open-source tools for the Business Central community
 
